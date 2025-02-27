@@ -1,0 +1,34 @@
+# Environment and configuration files
+.env
+.env.*
+*.env
+.cache/
+
+# Authentication files
+oauth.json
+headers_auth.json
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
