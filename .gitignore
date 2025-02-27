@@ -2,7 +2,8 @@
 .env
 .env.*
 *.env
-.cache/
+.cache
+.cache/*
 
 # Authentication files
 oauth.json
@@ -31,4 +32,3 @@ ENV/
 # OS specific files
 .DS_Store
 Thumbs.db
-
